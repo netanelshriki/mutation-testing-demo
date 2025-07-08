@@ -10,7 +10,7 @@
     <version>1.0.0</version>
     <packaging>jar</packaging>
     
-    <name>Mutation Testing Demo</name>
+    <n>Mutation Testing Demo</n>
     <description>
         Minimal project demonstrating the gap between traditional code coverage (JaCoCo) 
         and mutation testing coverage (PIT). Shows high line coverage with poor test quality.
